@@ -3,7 +3,7 @@
 ## Beautiful math in all browsers
 
 MathJax is an open-source JavaScript display engine for LaTeX, MathML, and
-AsciiMath notation that works in all modern browsers.  It was designed with
+AsciiMath (AsciiMath is an easy-to-write markup language for mathematics.) notation that works in all modern browsers.  It was designed with
 the goal of consolidating the recent advances in web technologies into a
 single, definitive, math-on-the-web platform supporting the major browsers
 and operating systems.  It requires no setup on the part of the user (no
